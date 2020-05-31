@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like **bold** or *italics*) to identify keywords, programming languages, or skills. 
+I am using **JAVA** now but I formerly used **C**, **C++** in the software industry and **PHP** as a freelance web developer
